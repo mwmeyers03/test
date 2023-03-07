@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\water\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	autocrlf = true
+	safecrlf = true
+[user]
+	name = Michael Meyers
+	email = mwmeyers03@gmail.com
